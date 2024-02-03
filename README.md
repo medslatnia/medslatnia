@@ -11,7 +11,7 @@ You can call me Med, your local **FULLSTACK DEVELOPER** :)
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [slatnia.mmed@gmail.com](mailto:slatnia.mmed@gmail.com).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medslatnia&langs_theme="github_dark")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medslatnia&langs_count=5)
 
 
 **Languages and Tools:**  
