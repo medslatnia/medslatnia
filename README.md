@@ -7,11 +7,11 @@ You can call me Med, your local **FULLSTACK DEVELOPER** :)
 
 **About Me:**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
+- 👨🏽‍💻 I’m currently a Information Systems and Software Engineering student at UMBB.
+- 🌱 I’m currently doing an internship as Mobile App Developer at Algéerie Telecom.
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 📫 Email me at [slatnia.mmed@gmail.com](mailto:slatnia.mmed@gmail.com).
 
 
 
