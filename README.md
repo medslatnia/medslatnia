@@ -15,7 +15,7 @@ You can call me Med, your local **FULLSTACK DEVELOPER** :)
 
 **Languages and Tools:**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medslatnia)](https://github.com/medslatnia/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medslatnia&langs_count=5)
 
 
 
