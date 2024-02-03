@@ -14,7 +14,7 @@ You can call me Med, your local **FULLSTACK DEVELOPER** :)
 
 
 **Languages and Tools:**  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medslatnia&langs_count=5)
 
 
