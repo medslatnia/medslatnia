@@ -22,8 +22,7 @@ You can call me Med, your local **FULLSTACK DEVELOPER** :)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="![8d0c72f49aaa0a6a35d34c7b98035baa](https://github.com/medslatnia/medslatnia/assets/113144036/defc0253-f837-4935-bc17-d35fbc02ce96)
-"></code>
+<code><img height="20" src="![731_java](https://github.com/medslatnia/medslatnia/assets/113144036/7ca667ef-0e16-4e95-8048-496914541b43)"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
