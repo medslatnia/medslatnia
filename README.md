@@ -32,10 +32,10 @@ You can call me Med, your local **FULLSTACK DEVELOPER** :)
 
 **Contact me:**
 
-<a href="https://www.linkedin.com/in/slatnia-med/" target="_blank">
+<a target="_blank" href="https://www.linkedin.com/in/slatnia-med/">
   <img align="left" alt="Med's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/med.codes_/ target="_blank"">
+<a target="_blank" href="https://www.instagram.com/med.codes_/">
   <img align="left" alt="Med's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
