@@ -1,15 +1,13 @@
-<h3 title="hehehe">Hey there</h3>
+<h3 title="hehehe">Hey there! </h3>
 
 You can call me Med, your local **FULLSTACK DEVELOPER** :)
  
-
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me:**
 
 - 👨🏽‍💻 I’m currently a Information Systems and Software Engineering student at UMBB.
-- 🌱 I’m currently doing an internship as Mobile App Developer at Algéerie Telecom.
-- 🤔 My interest lies in front end web development.
+- 🌱 I’m currently doing an internship as a Mobile App Developer at Algérie Telecom.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [slatnia.mmed@gmail.com](mailto:slatnia.mmed@gmail.com).
 
@@ -17,6 +15,7 @@ You can call me Med, your local **FULLSTACK DEVELOPER** :)
 
 **Languages and Tools:**  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
