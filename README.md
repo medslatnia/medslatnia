@@ -6,7 +6,7 @@ You can call me Med, your local **FULLSTACK DEVELOPER** :)
 
 **About Me:**
 
-- 👨🏽‍💻 I’m currently an Information Systems and Software Engineering student at UMBB.
+- 👨🏽‍💻 I’m currently an Information Systems and Software Engineering student.
 - 🌱 I’m also doing an internship as a Mobile App Developer at Algérie Telecom.
 - 💬 Ask me about anything, I would love to answer
 - 📫 Email me at [slatnia.mmed@gmail.com](mailto:slatnia.mmed@gmail.com).
